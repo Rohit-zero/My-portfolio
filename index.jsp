@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+  <meta charset="utf-8">
+  <title>Hi! I’m
+    Rohit</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <!-- slick slider -->
+  <link rel="stylesheet" href="plugins/slick/slick.css">
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="plugins/themify-icons/themify-icons.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Main Stylesheet -->
+  <link href="css/style.css" rel="stylesheet">
+  
+  <!--Favicon-->
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+  
+
+<header class="navigation fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand font-tertiary h3" href="index.html"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <li><a href="https://github.com/Rohit-zero" class="fa fa-github" style="font-size:36px"></a></li><pre>    </pre>
+        </li>
+        <li class="nav-item">
+          <li><a href="https://www.linkedin.com/in/rohit-chauhan-189550213/" class="fa fa-linkedin" style="font-size:36px"></a></i></a></li><pre>    </pre>
+        </li>
+        <li class="nav-item">
+          <li><a href="#" class="fa fa-instagramn" style="font-size:36px"></a></i></a></li>
+        </li>
+        <li class="nav-item">
+          <li><a href="https://www.youtube.com/channel/UCBF5P6JpHpbFJEHKvqc0ALA" class="fa fa-youtube" style="font-size:36px"></a></i></a></li><pre>    </pre>
+        </li>
+        <li class="nav-item">
+          <li><a href="https://telegram.me/Xenon_xe39" class="fa fa-telegram" style="font-size:36px"></a></i></a></li><pre>    </pre>
+        </li>
+       
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<!-- hero area -->
+<section class="hero-area bg-primary" id="parallax">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-11 mx-auto">
+        <h1 class="text-white font-tertiary">Hi! I’m <br> Rohit Dhakad <br> </h1>
+      </div>
+    </div>
+  </div>
+  <div class="layer-bg w-100">
+    <img class="img-fluid w-100" src="images/illustrations/leaf-bg.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l2">
+    <img src="images/illustrations/dots-cyan.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l3">
+    <img src="images/illustrations/leaf-orange.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l4">
+    <img src="images/illustrations/dots-orange.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l5">
+    <img src="images/illustrations/leaf-yellow.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l6">
+    <img src="images/illustrations/leaf-cyan.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l7">
+    <img src="images/illustrations/dots-group-orange.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l8">
+    <img src="images/illustrations/leaf-pink-round.png" alt="bg-shape">
+  </div>
+  <div class="layer" id="l9">
+    <img src="images/illustrations/leaf-cyan-2.png" alt="bg-shape">
+  </div>
+</section>
+<!-- /hero area -->
+
+<!-- about -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <p class="font-secondary paragraph-lg text-dark">A young, determined hard and smart working person with Good problem-solving
+          skills and ability to perform well in a team, Reliable and collaborative team member,
+          looking for opportunity to develop skills further.. Passionate about coding and enjoy
+          studying new things and teaching.
+          </p>
+        <a href="about.html" class="btn btn-transparent">know more</a>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /about -->
+
+<!-- skills -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">Skills</h2>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="card shadow text-center">
+          <div class="position-relative rounded-top progress-wrapper" data-color="#fdb157">
+            <div class="wave" data-progress="90%"></div>
+          </div>
+          <div class="card-footer bg-white">
+            <h4 class="card-title">Java (90%)</h4>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="card shadow text-center">
+          <div class="position-relative rounded-top progress-wrapper" data-color="#9473e6">
+            <div class="wave" data-progress="60%"></div>
+          </div>
+          <div class="card-footer bg-white">
+            <h4 class="card-title">Spring and Hibernate (50%)</h4>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="card shadow text-center">
+          <div class="position-relative rounded-top progress-wrapper" data-color="#bdecf6">
+            <div class="wave" data-progress="80%"></div>
+          </div>
+          <div class="card-footer bg-white">
+            <h4 class="card-title">Web Development  (60%)</h4>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="card shadow text-center">
+          <div class="position-relative rounded-top progress-wrapper" data-color="#ffbcaa">
+            <div class="wave" data-progress="70%"></div>
+          </div>
+          <div class="card-footer bg-white">
+            <h4 class="card-title">Android (70%)</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /skills -->
+
+<!-- education -->
+<section class="section position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">Education</h2>
+      </div>
+      <div class="col-lg-6 col-md-6 mb-80">
+        <div class="d-flex">
+          <div class="mr-lg-5 mr-3">
+            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+          </div>
+          <div>
+            <p class="text-dark mb-1">2017-2020</p>
+            <h4>BCA (Bachelors's in Computer Application)</h4>
+            <p class="mb-0 text-light">University of Rajasthan RU</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-6 mb-80">
+        <div class="d-flex">
+          <div class="mr-lg-5 mr-3">
+            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+          </div>
+          <div>
+            <p class="text-dark mb-1">2020-2022</p>
+            <h4>MCA (Master of Computer Applications)</h4>
+            <p class="mb-0 text-light">Rajasthan Technical University</p>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <!-- bg image -->
+  <img class="img-fluid edu-bg-image w-100" src="images/backgrounds/education-bg.png" alt="bg-image">
+</section>
+<!-- /education -->
+<section class="section bg-primary position-relative testimonial-bg-shapes">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title text-white mb-5">Quotes</h2>
+      </div>
+      <div class="col-lg-10 mx-auto testimonial-slider">
+        <!-- slider-item -->
+        <div class="text-center testimonial-content">
+          <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
+          <p class="text-white mb-4">Somebody told me I’m a failure, I’ll prove them wrong.</p>
+          <!-- <img class="img-fluid rounded-circle mb-4 d-inline-block" src="images/testimonial/client-1.png"
+            alt="client-image"> -->
+          <!-- <h4 class="text-white">Rohit</h4> -->
+        </div>
+        <!-- slider-item -->
+        <div class="text-center testimonial-content">
+          <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
+          <p class="text-white mb-4">cA person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own.</p>
+          <!-- <img class="img-fluid rounded-circle mb-4 d-inline-block" src="images/testimonial/client-1.png"
+            alt="client-image"> -->
+          <!-- <h4 class="text-white">Rohit</h4> -->
+        </div>
+        <!-- slider-item -->
+        <div class="text-center testimonial-content">
+          <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
+          <p class="text-white mb-4">Never give up without even trying. Do what you can, no matter how small the effect it may have!</p>
+          <!-- <img class="img-fluid rounded-circle mb-4 d-inline-block" src="images/testimonial/"
+            alt="client-image"> -->
+          <h4 class="text-white">Rohit</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- bg shapes -->
+  <img src="images/backgrounds/map.png" alt="map" class="img-fluid bg-map">
+  <img src="images/illustrations/dots-group-v.png" alt="bg-shape" class="img-fluid bg-shape-1">
+  <img src="images/illustrations/leaf-orange.png" alt="bg-shape" class="img-fluid bg-shape-2">
+  <img src="images/illustrations/dots-group-sm.png" alt="bg-shape" class="img-fluid bg-shape-3">
+  <img src="images/illustrations/leaf-pink-round.png" alt="bg-shape" class="img-fluid bg-shape-4">
+  <img src="images/illustrations/leaf-cyan.png" alt="bg-shape" class="img-fluid bg-shape-5">
+</section>
+
+
+
+<!-- Hobbies -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Hobbies</h2>
+      </div>
+      <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+        <article class="card shadow">
+          <img class="rounded card-img-top" src="images/blog/post-3.jpg" alt="post-thumb">
+          <div class="card-body">
+            <h4 class="card-title"><a class="text-dark" href="blog-single.html">DSA Interview Pripration Sheet</a>
+            </h4>
+            <p class="cars-text">DSA Interview Pripration Sheet by LoveBabber youtube and HackerRank 3 months  Challenge</p>
+            <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+          </div>
+        </article>
+      </div>
+      <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+        <article class="card shadow">
+          <img class="rounded card-img-top" src="images/blog/post-4.jpg" alt="post-thumb">
+          <div class="card-body">
+            <h4 class="card-title"><a class="text-dark" href="blog-single.html">Android Kernel Development</a>
+            </h4>
+            <p class="cars-text">Android Source Development</p>
+            <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+          </div>
+        </article>
+      </div>
+      <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+        <article class="card shadow">
+          <img class="rounded card-img-top" src="images/blog/post-2.jpg" alt="post-thumb">
+          <div class="card-body">
+            <h4 class="card-title"><a class="text-dark" href="blog-single.html">Movies & Online Gaming</a>
+            </h4>
+            <p class="cars-text">See my favourite Movie and Series List</p>
+            <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /blog -->
+
+<!-- contact -->
+<section class="section section-on-footer" data-background="images/backgrounds/bg-dots.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Contact Info</h2>
+      </div>
+      <div class="col-lg-8 mx-auto">
+        <div class="bg-white rounded text-center p-5 shadow-down">
+          <h4 class="mb-80">Contact Form</h4>
+          <form action="#" class="row">
+            <div class="col-md-6">
+              <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-md-6">
+              <input type="email" id="email" name="email" placeholder="Email Address" class="form-control px-0 mb-4">
+            </div>
+            <div class="col-12">
+              <textarea name="message" id="message" class="form-control px-0 mb-4"
+                placeholder="Type Message Here"></textarea>
+            </div>
+            <div class="col-lg-6 col-10 mx-auto">
+              <button class="btn btn-primary w-100">send</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /contact -->
+
+<!-- jQuery -->
+<script src="plugins/jQuery/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<!-- slick slider -->
+<script src="plugins/slick/slick.min.js"></script>
+<!-- filter -->
+<script src="plugins/shuffle/shuffle.min.js"></script>
+
+<!-- Main Script -->
+<script src="js/script.js"></script>
+
+</body>
+</html>
